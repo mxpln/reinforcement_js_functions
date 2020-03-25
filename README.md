@@ -1,7 +1,5 @@
 # Exercises: Functions
 
--   These exercises are based on the variables exercises, so you may start from those (your solutions or ours) or start from scratch.
-
 ## 1. The Fortune Teller
 
 Why pay a fortune teller when you can just program your fortune yourself?
@@ -19,7 +17,7 @@ You know how old your dog is in human years, but what about dog years? Calculate
     takes 1 argument: your puppy's age.
     -   calculates your dog's age based on the conversion rate of 1 human year to 7 dog years.
     -   returns the following message "Your doggie is NN years old in dog years!" with the correct values.
-- Display the result of the function with your age as an argument in the console.
+-   Display the result of the function with your age as an argument in the console.
 
 ## 3. The Geometrizer
 
@@ -43,16 +41,16 @@ Display the result of function in the console, with a radius of 4.5
 
 It's hot out! Let's make a converter based on the steps here.
 
-* Create a function called **celsiusToFahrenheit**:
+-   Create a function called **celsiusToFahrenheit**:
 
-    * Help: https://wikimedia.org/api/rest_v1/media/math/render/svg/86d17f80e0e104e6021ae29eeb27a745c1c09be6
+    -   Help: https://wikimedia.org/api/rest_v1/media/math/render/svg/86d17f80e0e104e6021ae29eeb27a745c1c09be6
 
--   Store a celsius temperature into a variable.
--   Convert it to fahrenheit and output "NN°C is NN°F".
+*   Store a celsius temperature into a variable.
+*   Convert it to fahrenheit and output "NN°C is NN°F".
 
-* Create a function called **fahrenheitToCelsius**:
+-   Create a function called **fahrenheitToCelsius**:
 
-    * Help: https://wikimedia.org/api/rest_v1/media/math/render/svg/83cff534d2e96165cbe9245bd9abc5d5d96d94f0
+    -   Help: https://wikimedia.org/api/rest_v1/media/math/render/svg/83cff534d2e96165cbe9245bd9abc5d5d96d94f0
 
--   Now store a fahrenheit temperature into a variable.
--   Convert it to celsius and output "NN°F is NN°C."
+*   Now store a fahrenheit temperature into a variable.
+*   Convert it to celsius and output "NN°F is NN°C."
