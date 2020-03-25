@@ -9,7 +9,12 @@ Why pay a fortune teller when you can just program your fortune yourself?
     -   returns the following message "You will be a (4) in (3), and married to (2) with (1) kids." with the correct values.
 -   Display the result of the function with the arguments (2, "Julie", "Paris", "full stack developer") in the console.
 
-## 2. The Puppy Age Calculator
+## 2. Display the squared values of the numbers (0 to age)
+
+-   Write a function named **squared** with an argument "age"
+    -   prints/display the squared value of each value from 0 to the given age
+
+## 3. The Puppy Age Calculator
 
 You know how old your dog is in human years, but what about dog years? Calculate it!
 
@@ -19,7 +24,7 @@ You know how old your dog is in human years, but what about dog years? Calculate
     -   returns the following message "Your doggie is NN years old in dog years!" with the correct values.
 -   Display the result of the function with your age as an argument in the console.
 
-## 3. The Geometrizer
+## 4. The Geometrizer
 
 Create 2 functions that calculate properties of a circle, using the definitions here.
 
@@ -37,7 +42,7 @@ Create a function called **calcArea**:
 
 Display the result of function in the console, with a radius of 4.5
 
-## 4. The Temperature Converter
+## 5. The Temperature Converter
 
 It's hot out! Let's make a converter based on the steps here.
 
